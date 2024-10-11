@@ -1,5 +1,6 @@
 # About Me
-* 👋 Hi, I’m Iván Delgado, 22 years olds, student in IES Xabier Zubiri Manteo
+* 👋 Hi! I’m Iván Delgado, 24 years olds, student in IES Xabier Zubiri Manteo.
+* 💼 Currently working in LKS Next as Full-stack Web Developer
 * 📂 My main account is <a href="https://github.com/idelter/" title="GitHub: iDelTer">iDelTer</a>
 
 # Skills
